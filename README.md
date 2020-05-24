@@ -5,12 +5,12 @@
 
 Projeto de site desenvolvido como grade do curso de HTML e CSS da Digital Innovation One. O curso apresenta o uso das principais tags e estilização com uso do css. Com base no que foi aprendido e pesquisas, apresentei minhas melhorias.
 
-###Links
+### Links
 
 - [Digital Innovation One](https://digitalinnovation.one/ "Digital Innovation One")
 - [Materialize](http://materializecss.com "Materialize")
 
-### Usage
+### Uso
 
 Realize o download na sua máquina e abra o index.html, é necessário estar conectado à internet para aplicaros os estilos do materialize.
 
